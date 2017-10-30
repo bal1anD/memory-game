@@ -1,0 +1,14 @@
+div#memory_board{
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+}
+
+#game_board table, th, td,button {
+    border: 1px solid black;
+    height:150px;
+    width: 150px;
+    background-color: white;
+
+}
